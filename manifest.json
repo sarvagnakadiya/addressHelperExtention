@@ -1,0 +1,12 @@
+{
+  "name": "Address extention",
+  "version": "1.0.0",
+  "description": "Use this extention for quick access of EOA addresses",
+  "manifest_version": 3,
+  "author": "Sarvagna Kadiya",
+  "image": "",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Address helper extention"
+  }
+}
